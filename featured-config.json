@@ -1,5 +1,7 @@
 {
   "appId": "weather",
   "pinnedAt": 1787720141276,
-  "queue": []
+  "queue": [
+    "weather"
+  ]
 }
